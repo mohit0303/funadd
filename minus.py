@@ -1,7 +1,7 @@
 print("Welcome to Clculator....")
 def add(a,b):
-    c = a + b
+    c = a - b
     return (c)
 
-x = add(3,3)
+x = add(30,3)
 print(x)
