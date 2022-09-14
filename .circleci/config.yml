@@ -5,4 +5,4 @@ jobs:
       - image: python
     steps:
       - checkout
-      - run: python add.py
+      - run: python minus.py
